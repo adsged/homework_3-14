@@ -12,10 +12,10 @@ LICENSE: [MIT](./license.md)
 4. [git status](./status.md)
 5. [git log](./log.md)
 6. [git branch](./branch.md)
-7. [git checkout](./checkout.md)
+7. [git switch](./switch.md)
 8. [git merge](./merge.md)
-9. [git tag](./tag.md)
-10. [git diff](./diff.md)
+9. [git diff](./diff.md)
+10. [git restore](./restore.md)
 
 ---
 
